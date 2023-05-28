@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "client_stub.h": "c",
+        "message-private.h": "c",
+        "inet.h": "c"
+    }
+}
